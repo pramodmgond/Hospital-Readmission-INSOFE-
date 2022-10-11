@@ -1,5 +1,5 @@
-Flask
-numpy 
-pandas
-reruests
-scikit_learn
+Flask==2.2.2
+numpy==1.23.3
+pandas==1.5.0
+Pillow==9.2.0
+streamlit==1.13.0
